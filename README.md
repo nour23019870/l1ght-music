@@ -29,7 +29,7 @@ A sleek command-line tool for downloading audio from YouTube videos and playlist
 
 ```bash
 git clone https://github.com/nour23019870/l1ght-music.git
-cd light-music
+cd l1ght-music
 ```
 
 2. Create a virtual environment (optional but recommended):

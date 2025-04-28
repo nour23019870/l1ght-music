@@ -28,7 +28,7 @@ A sleek command-line tool for downloading audio from YouTube videos and playlist
 1. Clone this repository or download the source code:
 
 ```bash
-git clone https://github.com/nour23019870/light-music.git
+git clone https://github.com/nour23019870/l1ght-music.git
 cd light-music
 ```
 
